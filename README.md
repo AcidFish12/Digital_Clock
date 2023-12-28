@@ -24,12 +24,11 @@ main函数中主循环来实现界面的选择和功能函数的调用，其余�
 * 定时器设置：测试方法：比对定时的准确性，操作暂停、继续、清零并观察。
 测试结果：定时器定时准确，操作按钮灵敏，暂停继续，清零功能均正常。
 ## 系统图片
-<center class="half">
-    <img src="![IMG_20231228_103535](https://github.com/AcidFish12/Digital_Clock/assets/75008732/848351e5-b6b4-4b0b-aa69-43041ba12864)"/>
-    <img src="![IMG_20231228_103553](https://github.com/AcidFish12/Digital_Clock/assets/75008732/5a63e216-2b48-4037-9c09-73efa54b883d)"/>
-    <img src="![IMG_20231228_103509](https://github.com/AcidFish12/Digital_Clock/assets/75008732/b5804f28-31b0-434c-9a1a-8badd2ecbff5)"/>
-  <img src="![IMG_20231228_103433](https://github.com/AcidFish12/Digital_Clock/assets/75008732/506d808e-0896-4f43-bdd3-cad10bb020d5)"/>
-</center>
+* <img src = "![IMG_20231228_103535](https://github.com/AcidFish12/Digital_Clock/assets/75008732/848351e5-b6b4-4b0b-aa69-43041ba12864)" width = 30%/>
+* <img src = "![IMG_20231228_103553](https://github.com/AcidFish12/Digital_Clock/assets/75008732/5a63e216-2b48-4037-9c09-73efa54b883d)" width = 30%/>
+* <img src ="![IMG_20231228_103509](https://github.com/AcidFish12/Digital_Clock/assets/75008732/b5804f28-31b0-434c-9a1a-8badd2ecbff5)" width = 30%/>
+* <img src ="![IMG_20231228_103433](https://github.com/AcidFish12/Digital_Clock/assets/75008732/506d808e-0896-4f43-bdd3-cad10bb020d5)" width = 30%/>
+
 
 
 
